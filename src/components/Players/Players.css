@@ -1,0 +1,14 @@
+.squad-container {
+    display: flex;
+}
+.players-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 65%;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+    justify-content: center;
+}
+.budget-container {
+    margin-left: 30px;
+}

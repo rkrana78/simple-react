@@ -1,0 +1,24 @@
+.playerInfo-container {
+    width: 300px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px gray;
+    justify-content: center;
+}
+.playerInfo-container img {
+    width: 250px;
+    height: 300px;
+}
+.main-button {
+    color: white;
+   /** background-color: rgb(94, 94, 182);*/
+    width: 150px;
+    height: 30px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}

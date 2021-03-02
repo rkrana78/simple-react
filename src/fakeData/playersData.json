@@ -1,0 +1,93 @@
+ 
+  [{
+    "name": "Christiano Ronaldo",
+    "club_name": "Juventus",
+    "position": "Left Winger",
+    "salary": 60000,
+    "img": "https://i.ibb.co/sC7sDqr/418d236152c743e56cf6af42ca35e930.jpg"
+  }, {
+    "name": "Lionel Messi",
+    "club_name": "Barcelona",
+    "position": "Right Winger",
+    "salary": 58000,
+    "img": "https://i.ibb.co/GCgJTJS/Dea-CUU4-X4-AI3j-TM.jpg"
+  }, {
+    "name": "Neymar",
+    "club_name": "PSG",
+    "position": "LWF",
+    "salary": 55000,
+    "img": "https://i.ibb.co/VWypbLL/4d3ad70c54cb716e6895180acd937d90.jpg"
+  }, {
+    "name": "Tony Kroos",
+    "club_name": "Real Madrid",
+    "position": "CMF",
+    "salary": 54000,
+    "img": "https://i.ibb.co/DCtsT4G/D-JJg5z-Wk-AAU7-H.jpg"
+  }, {
+    "name": "Modric",
+    "club_name": "Real Madrid",
+    "position": "CMF",
+    "salary": 53000,
+    "img": "https://i.ibb.co/YWVN9MR/MODRIC-380-X501-Thumb.jpg"
+  }, {
+    "name": "Casemiro",
+    "club_name": "Real Madrid",
+    "position": "DMF",
+    "salary": 40000,
+    "img": "https://i.ibb.co/Qb0fnfz/CASEMIRO-380-X501-Thumb.jpg"
+  }, {
+    "name": "Mbappe",
+    "club_name": "PSG",
+    "position": "CF",
+    "salary": 45000,
+    "img": "https://i.ibb.co/828FpwG/284095.jpg"
+  }, {
+    "name": "Sergio Ramos",
+    "club_name": "Real madrid",
+    "position": "CB",
+    "salary": 50000,
+    "img": "https://i.ibb.co/fx67CTt/RAMOS-380-X501-Thumb.jpg"
+  }, {
+    "name": "DE bruyne",
+    "club_name": "Man  City",
+    "position": "AMF",
+    "salary": 50000,
+    "img": "https://i.ibb.co/7VL3fpx/384-3845931-man-city-midfielder-profiles-de-bruyne-manchester-city.png"
+  }, {
+    "name": "Thiago Silva",
+    "club_name": "Chelsea",
+    "position": "Cb",
+    "salary": 42000,
+    "img": "https://i.ibb.co/D5DzpSF/1200px-20180610-FIFA-Friendly-Match-Austria-vs-Brazil-Thiago-Silva-850-1582.jpg"
+  }, {
+    "name": "Marcelo",
+    "club_name": "Real Madrid",
+    "position": "LB",
+    "salary": 41000,
+    "img": "https://i.ibb.co/PgBb6fX/MARCELO-380-X501-Thumb.jpg"
+  }, {
+    "name": "Dani Alves",
+    "club_name": "Barcelona",
+    "position": "RB",
+    "salary": 38000,
+    "img": "https://i.ibb.co/YBX5jHG/12541.jpg"
+  }, {
+    "name": "Allison",
+    "club_name": "LIverpool",
+    "position": "GK",
+    "salary": 35000,
+    "img": "https://i.ibb.co/SKWn2v9/8ff572b5d27edd3c961ad6ea7cac078e.jpg"
+  }, {
+    "name": "Salah",
+    "club_name": "Liverpool",
+    "position": "RWF",
+    "salary": 41000,
+    "img": "https://i.ibb.co/S07gnVS/MSalah2020.jpg"
+  }, {
+    "name": "Sadio Mane",
+    "club_name": "Liverpool",
+    "position": "CF",
+    "salary": 42000,
+    "img": "https://i.ibb.co/KGcdYVc/SMane2020.jpg"
+  }]
+  
